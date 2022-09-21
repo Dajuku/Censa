@@ -1,0 +1,7 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es FCF9-4BDD
+C:.
+ÀÄÄÄtarea2
+    ÃÄÄÄprueba1
+    ÃÄÄÄprueba2
+    ÀÄÄÄprueba3
