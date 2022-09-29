@@ -1,0 +1,11 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es FCF9-4BDD
+C:.
+ÃÄÄÄproyecto
+³   ÃÄÄÄprueba1
+³   ÃÄÄÄprueba2
+³   ÀÄÄÄprueba3
+ÀÄÄÄtarea2
+    ÃÄÄÄprueba1
+    ÃÄÄÄprueba2
+    ÀÄÄÄprueba3
